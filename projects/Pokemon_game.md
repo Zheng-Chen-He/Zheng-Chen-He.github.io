@@ -8,15 +8,15 @@ published: true
 labels:
   - GitHub
   - Java
-summary: "An small game based on pokemon battle that I did on ics 241."
+summary: "A small game based on Pokemon battle that I did on ICS 241."
 ---
 <hr>
 <img class="img-fluid" src="../img/1112.png">
 <hr>
-Pokemon game is a word based pokemon battle game that is based on the famous nintendo game series pokemon. In this
-project, I inserted some pokemons data and simulates a fight between them. It compares its attack power, health and
-type the pokemon have. The essential goal is to defeat the opponnet's pokemon by attacking it until the pokemon's
-health reach to 0
+Pokemon game is a word-based Pokemon battle game that is based on the famous Nintendo game series Pokemon. In this
+project, I inserted some Pokemon data and simulated a fight between them. It compares its attack power, health, and
+type the Pokemon have. The essential goal is to defeat the opponent's Pokemon by attacking it until the Pokemon's
+health reaches 0
 
 
-Source: <a href="https://github.com/Lam-Tech/covid-tracker"><i class="large github icon "></i>Covid Chcker</a>
+Source: <a href="https://github.com/Zheng-Chen-He/a3-pokemon-hierarchy-f20-a3-group-3-1"><i class="large github icon "></i>Pokemon Game</a>
