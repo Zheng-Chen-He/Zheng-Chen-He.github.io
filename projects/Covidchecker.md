@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/11123.png
 title: "CovidChecker"
 date: 2021
 published: true
