@@ -16,4 +16,4 @@ record everyday health conditions and determine if they are safe to attend schoo
 The fundamental goal of the Covid Checker is to ensure that everyone in the communities is safe from the risk of the Covid-19 pandemic.
 
 
-Source: <a href="https://https://github.com/Lam-Tech/covid-tracker"><i class="large github icon "></i>Covid Chcker</a>
+Source: <a href="https://github.com/Lam-Tech/covid-tracker"><i class="large github icon "></i>Covid Chcker</a>
