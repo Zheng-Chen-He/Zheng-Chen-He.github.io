@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/pokemon.png
 title: "Pokemon game"
-date: 2021
+date: 2020
 published: true
 labels:
   - GitHub
