@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/javaSPT/jst.png">
 
 ## JavaScript to me
 JavaScript was not completely new to me. In high school, I took a coding class regarding the use of HTML, CSS, and JavaScript. It is quite fun using these three coding languages to build your own website.
