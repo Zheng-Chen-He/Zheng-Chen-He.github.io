@@ -17,5 +17,8 @@ create accounts and log in to Covid Checker for daily health condition checks. T
 record everyday health conditions and determine if they are safe to attend school or not.
 The fundamental goal of the Covid Checker is to ensure that everyone in the communities is safe from the risk of the Covid-19 pandemic.
 
+## My participation
+In this project, I helped my team to form the general idea and concept of this project. I also helped them write a short summary of the 
+project. Additionally, I edited some CSS files to make the background color and general art of this project to be more visualize and clear. 
 
 Source: <a href="https://github.com/Lam-Tech/covid-tracker"><i class="large github icon "></i>Covid Chcker</a>
