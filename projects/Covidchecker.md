@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/11123.xvf
+image: img/11123.xcf
 title: "CovidChecker"
 date: 2021
 published: true
