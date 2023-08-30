@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pokemon.xcf
+image: img/pokemon.png
 title: "Pokemon game"
 date: 2020
 published: true
