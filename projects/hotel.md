@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hotel.xcf
+image: img/hotel.png
 title: "Hotel"
 date: 2018
 published: true
