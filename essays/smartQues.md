@@ -10,7 +10,7 @@ labels:
 ---
 
 ## A smart question
-Source: <a href="https://stackoverflow.com/questions/41095718/run-oracle-scheduler-with-error-ora-20001-this-procedure-must-be-invoked-from"><i class="large github icon "></i>Smart question</a>
+Source: <a href="https://stackoverflow.com/questions/41095718/run-oracle-scheduler-with-error-ora-20001-this-procedure-must-be-invoked-from"><i class="large github icon"></i>Smart question</a>
 A sample model of a smart question is clearly stated in the following way:
 
 Clearly Stated Problem: The question clearly articulates the problem the user is facing, which is receiving an ORA-20001 error when attempting to run the Oracle Scheduler. 
@@ -23,7 +23,7 @@ indicating the technology stack they are using. This can be crucial information 
 
 ## A not-so-smart question
 Source: <a href="https://stackoverflow.com/questions/4037939/powershell-says-execution-of-scripts-is-disabled-on-this-system "><i class="large github icon "></i>not-so-smart question</a>
-https://stackoverflow.com/questions/4037939/powershell-says-execution-of-scripts-is-disabled-on-this-system 
+A sample model of a not-so-smart question is clearly stated in the following way:
 
 Lack of Research: The question appears to be about a common issue in PowerShell where script execution is disabled. The error message itself suggests that scripts are disabled, which is often due to an execution policy. This information is readily available in PowerShell 
 documentation, so it might have been beneficial for the user to perform some basic research before posting. The user also does not provide much context or information about their specific environment or what they have already tried. This makes it challenging for potential 
