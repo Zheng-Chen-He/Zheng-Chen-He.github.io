@@ -6,8 +6,9 @@ title: "Coding Standard Reflection"
 date: 2023-09-22
 published: true
 labels:
-  - Software Engineering
+  - coding standatd
   - Learning
+  - -EsLint
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="../img/wizzard.jpg">
