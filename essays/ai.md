@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Javascript to me"
+title: "My Use of AI "
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-21
 published: true
@@ -11,7 +11,7 @@ labels:
   - Artificial Intelligence
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/javaSPT/jst.png">
+<img width="100px" class="rounded float-start pe-4" src="../img/javaSPT/where-is-ai-used.jpg">
 
 ## Introduction
 AI has played a pivotal role in reshaping education, particularly in Software Engineering, offering personalized learning experiences and skill development through tools such as ChatGPT,
