@@ -10,8 +10,9 @@ labels:
   - Learning
   - Artificial Intelligence
 ---
-
-<img width="20%" class="rounded float-start pe-4" src="../img/forest.jpg">
+<hr>
+<img class="rounded float-start pe-4" src="../img/forest.jpg">
+<hr>
 
 In the vast landscape of software development, design patterns serve as the architect's secret language, providing a set of proven solutions to recurring problems. 
 Imagine these patterns as the well-worn paths in a magical forest where seasoned wizards traverse. Each design pattern, like a unique spell, holds the power to elegantly 
