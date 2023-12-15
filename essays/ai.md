@@ -11,7 +11,7 @@ labels:
   - Artificial Intelligence
 ---
 <hr>
-<img width = "85%" class="rounded float-start pe-4" src="../img/where-is-ai-used.jpg">
+<img width = "90%" class="rounded float-start pe-4" src="../img/where-is-ai-used.jpg">
 <hr>
 ## Introduction
 AI has played a pivotal role in reshaping education, particularly in Software Engineering, offering personalized learning experiences and skill development through tools such as ChatGPT,
