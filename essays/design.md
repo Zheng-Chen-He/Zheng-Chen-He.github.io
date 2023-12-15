@@ -11,7 +11,7 @@ labels:
   - Artificial Intelligence
 ---
 <hr>
-<img class="rounded float-start pe-4" src="../img/forest.jpg">
+<img width="90%" class="rounded float-start pe-4" src="../img/forest.jpg">
 <hr>
 
 In the vast landscape of software development, design patterns serve as the architect's secret language, providing a set of proven solutions to recurring problems. 
