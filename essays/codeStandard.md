@@ -11,7 +11,7 @@ labels:
   - -EsLint
 ---
 <hr>
-<img width="20%" class="rounded float-start pe-4" src="../img/wizzard.jpg">
+<img class="rounded float-start pe-4" src="../img/wizzard.jpg">
 <hr>
 
 ## Introduction
