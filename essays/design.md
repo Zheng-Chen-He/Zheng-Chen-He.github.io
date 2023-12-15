@@ -11,11 +11,11 @@ labels:
   - Artificial Intelligence
 ---
 <hr>
-<img width="90%" class="rounded float-start pe-4" src="../img/forest.jpg">
+<img width="25%" class="rounded float-start pe-4" src="../img/forest.jpg">
 <hr>
 
 In the vast landscape of software development, design patterns serve as the architect's secret language, providing a set of proven solutions to recurring problems. 
-Imagine these patterns as the well-worn paths in a magical forest where seasoned wizards traverse. Each design pattern, like a unique spell, holds the power to elegantly 
+Imagine these patterns as the well-worn paths in a magical forest that seasoned wizards traverse. Each design pattern, like a unique spell, holds the power to elegantly 
 address common challenges encountered in the enchanted realm of coding. Take the Singleton pattern, for instance, akin to a mystical artifact that ensures only one instance 
 of a powerful artifact exists. Its incantation safeguards against the chaos of multiple instances running amok.
 
