@@ -10,9 +10,9 @@ labels:
   - Learning
   - -EsLint
 ---
-
-<img width="25%" class="rounded float-start pe-4" src="../img/SE.jpg">
-
+<hr>
+<img class="rounded float-start pe-4" src="../img/SE.jpg">
+<hr>
 In the journey through this software engineering class, the focus on web application development has sometimes overshadowed the broader, more fundamental aspects of the discipline. This essay aims to reflect on the essential software engineering concepts covered in the course, delving into Open Source Software Development, Configuration Management, and Agile Project Management, to underscore their significance beyond the realm of web applications.
 
 ## Open Source Software Development:
