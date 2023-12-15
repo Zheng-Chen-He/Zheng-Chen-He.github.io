@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/al.jpg
+image: img/al.jpg width="100px"
 title: "Aloha Trade"
 date: 2021
 published: true
