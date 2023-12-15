@@ -24,7 +24,7 @@ create a common language, facilitating seamless collaboration among team members
 effective collaboration among individuals with diverse coding backgrounds.
 
 <hr>
-<img class="rounded float-start pe-4" src="../img/wizzard.jpg">
+<img width="50%" class="rounded float-start pe-4" src="../img/wizzard.jpg">
 <hr>
 
 ## Rules for Learning and My ESLint Adventure:
