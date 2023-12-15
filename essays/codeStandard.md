@@ -10,9 +10,6 @@ labels:
   - Learning
   - -EsLint
 ---
-<hr>
-<img class="rounded float-start pe-4" src="../img/wizzard.jpg">
-<hr>
 
 ## Introduction
 
@@ -25,6 +22,10 @@ Coding rules function as a recipe for crafting computer code, offering guideline
 them akin to the secret ingredient that enhances the visual appeal, functionality, and organization of your code. When adhered to by everyone involved, these rules 
 create a common language, facilitating seamless collaboration among team members. This shared understanding simplifies group work, making it more efficient and fostering 
 effective collaboration among individuals with diverse coding backgrounds.
+
+<hr>
+<img class="rounded float-start pe-4" src="../img/wizzard.jpg">
+<hr>
 
 ## Rules for Learning and My ESLint Adventure:
 The fascinating aspect is that coding rules aren't exclusively for seasoned programmers; they also serve as invaluable guides when delving into a new computer language. Similar 
