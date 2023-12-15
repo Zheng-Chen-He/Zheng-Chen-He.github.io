@@ -9,15 +9,16 @@ labels:
   - Software Engineering
   - Learning
 ---
-
-<img width="100px" class="rounded float-start pe-4" src="../img/javaSPT/jst.png">
-
 ## JavaScript to me
 I was not entirely new to JavaScript, having taken a coding class in high school that covered HTML, CSS, and JavaScript. Using these three coding languages to construct my website was quite enjoyable.
 
 In this module, everything feels like a review to me as I haven't worked with JavaScript for years. However, I find it to be a valuable review. The Free Code Camp has 
 not only refreshed many of my memories but has also introduced me to some functions that were not covered in my high school courses. Despite my prior experience with JavaScript, 
 I consider it a convenient language to work with, mainly because its functions are first-class.
+
+<hr>
+<img class="rounded float-start pe-4" src="../img/javaSPT/jst.png">
+<hr>
 
 ## WODS
 Initially, the prospect of engaging in Workouts of the Day (WODs) this semester filled my mind with a sense of hesitation and reluctance. However, as the semester unfolded,
