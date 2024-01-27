@@ -1,0 +1,64 @@
+{
+  "basics": {
+    "name": "ZhengChen He",
+    "label": "Student",
+    "picture": "https://github.com/Zheng-Chen-He.png",
+    "email": "zche@hawaii.edu",
+    "phone": "808-255-92714",
+    "website": "https://Zheng-Chen-He.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in winter, 2024.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "Zheng-Chen-He", "url": "http://github.com/Zheng-Chen-He" },
+      { "network": "linkedin", "username": "ZhengChen He", "url": "https://www.linkedin.com/in/zheng-chen-he-39259425b/" },
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineer" },
+    { "name": "History" },
+    { "name": "Game Designing" },
+    { "name": "Artificial intelligence" },
+    { "name": "Virtual Reality" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "VS code", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Winter,2024)",
+      "studyType": "B.S.",
+      "startDate": "2022-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Sakura Japanese Restaurant",
+      "position": "Server",
+      "website": "",
+      "startDate": "2020-03-20",
+      "endDate": "Present",
+      "summary": "Serving customer",
+      "highlights": [
+        "Maintain a stable connection with customers",
+        "Solving and communicating with customers and coworkers to build a healthy and stable working environment"
+      ]
+    },
+  ],
+
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
